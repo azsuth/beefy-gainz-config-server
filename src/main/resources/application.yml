@@ -6,3 +6,5 @@ spring:
       server:
         git:
           uri: ${HOME}/repos/beefy-gainz/config
+server:
+  port: 8888
