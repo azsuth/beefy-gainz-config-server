@@ -5,6 +5,6 @@ spring:
     config:
       server:
         git:
-          uri: ${HOME}/repos/beefy-gainz/config
+          uri: https://github.com/azsuth/beefy-gainz-config.git
 server:
   port: 8888
